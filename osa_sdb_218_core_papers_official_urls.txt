@@ -1,0 +1,654 @@
+001. Classification of Obstructive Sleep Apnoea from single-lead ECG signals using convolutional neural and Long Short Term Memory networks
+https://doi.org/10.1016/j.bspc.2021.102906
+
+002. AIOSA: An approach to the automatic identification of obstructive sleep apnea events based on deep learning
+https://doi.org/10.1016/j.artmed.2021.102133
+
+003. Accelerometry-derived respiratory index estimating apnea-hypopnea index for sleep apnea screening
+https://doi.org/10.1016/j.cmpb.2021.106209
+
+004. A Single-Center Validation of the Accuracy of a Photoplethysmography-Based Smartwatch for Screening Obstructive Sleep Apnea
+https://doi.org/10.2147/NSS.S323286
+
+005. Proof of principle study: diagnostic accuracy of a novel algorithm for the estimation of sleep stages and disease severity in patients with sleep-disordered breathing based on actigraphy and respiratory inductance plethysmography
+https://doi.org/10.1007/s11325-021-02316-0
+
+006. Accurate detection of sleep apnea with long short-term memory network based on RR interval signals
+https://doi.org/10.1016/j.knosys.2020.106591
+
+007. A Sleep Apnea Detection Method Based on Unsupervised Feature Learning and Single-Lead Electrocardiogram
+https://doi.org/10.1109/TIM.2020.3017246
+
+008. Estimation of Apnea-Hypopnea Index Using Deep Learning On 3-D Craniofacial Scans
+https://doi.org/10.1109/JBHI.2021.3078127
+
+009. A deep cascaded segmentation of obstructive sleep apnea-relevant organs from sagittal spine MRI
+https://doi.org/10.1007/s11548-021-02333-0
+
+010. Screening of sleep apnea based on heart rate variability and long short-term memory
+https://doi.org/10.1007/s11325-020-02249-0
+
+011. An OSAHS evaluation method based on multi-features acoustic analysis of snoring sounds
+https://doi.org/10.1016/j.sleep.2021.06.012
+
+012. Explainable fuzzy neural network with easy-to-obtain physiological features for screening obstructive sleep apnea-hypopnea syndrome
+https://doi.org/10.1016/j.sleep.2021.07.012
+
+013. Deep Learning-Based Assessment of Brain Connectivity Related to Obstructive Sleep Apnea and Daytime Sleepiness
+https://doi.org/10.2147/NSS.S327110
+
+014. Neural network analysis of nocturnal SpO2 signal enables easy screening of sleep apnea in patients with acute cerebrovascular disease
+https://doi.org/10.1016/j.sleep.2020.12.032
+
+015. Sleep Apnea Detection From Variational Mode Decomposed EEG Signal Using a Hybrid CNN-BiLSTM
+https://doi.org/10.1109/ACCESS.2021.3097090
+
+016. SCNN: Scalogram-based convolutional neural network to detect obstructive sleep apnea using single-lead electrocardiogram signals
+https://doi.org/10.1016/j.compbiomed.2021.104532
+
+017. Automatic Respiratory Event Scoring in Obstructive Sleep Apnea Using a Long Short-Term Memory Neural Network
+https://doi.org/10.1109/JBHI.2021.3064694
+
+018. Characterization of the abnormal cortical effective connectivity in patients with sleep apnea hypopnea syndrome during sleep
+https://doi.org/10.1016/j.cmpb.2021.106060
+
+019. Obstructive sleep apnea detection using discrete wavelet transform-based statistical features
+https://doi.org/10.1016/j.compbiomed.2020.104199
+
+020. Diagnosis of obstructive sleep apnea with prediction of flow characteristics according to airway morphology automatically extracted from medical images: Computational fluid dynamics and artificial intelligence approach
+https://doi.org/10.1016/j.cmpb.2021.106243
+
+021. Obstructive sleep apnea event prediction using recurrence plots and convolutional neural networks (RP-CNNs) from polysomnographic signals
+https://doi.org/10.1016/j.bspc.2021.102928
+
+022. The novel approach of temporal dependency complexity analysis of heart rate variability in obstructive sleep apnea
+https://doi.org/10.1016/j.compbiomed.2021.104632
+
+023. Machine learning for image-based detection of patients with obstructive sleep apnea: an exploratory study
+https://doi.org/10.1007/s11325-021-02301-7
+
+024. An Efficient Method to Detect Sleep Hypopnea–Apnea Events Based on EEG Signals
+https://doi.org/10.1109/ACCESS.2020.3038486
+
+025. A novel approach to diagnose sleep apnea using enhanced frequency extraction network
+https://doi.org/10.1016/j.cmpb.2021.106119
+
+026. Regularity of heart rate fluctuations analysis in obstructive sleep apnea patients using information-based similarity
+https://doi.org/10.1016/j.bspc.2020.102370
+
+027. Sleep apnea screening based on Photoplethysmography data from wearable bracelets using an information-based similarity approach
+https://doi.org/10.1016/j.cmpb.2021.106442
+
+028. Upper Airway Segmentation Based on the Attention Mechanism of Weak Feature Regions
+https://doi.org/10.1109/ACCESS.2021.3094032
+
+029. FENet: A Frequency Extraction Network for Obstructive Sleep Apnea Detection
+https://doi.org/10.1109/JBHI.2021.3050113
+
+030. Deep Learning for Diagnosis and Classification of Obstructive Sleep Apnea: A Nasal Airflow-Based Multi-Resolution Residual Network
+https://doi.org/10.2147/NSS.S297856
+
+031. Machine Learning-Based Detection of Sleep-Disordered Breathing Type Using Time and Time-Frequency Features
+https://doi.org/10.1016/j.bspc.2021.103402
+
+032. Obstructive Sleep Apnoea Syndrome Screening Through Wrist-Worn Smartbands: A Machine-Learning Approach
+https://doi.org/10.2147/NSS.S352335
+
+033. Sparse spectrum based swarm decomposition for robust nonstationary signal analysis with application to sleep apnea detection from EEG
+https://doi.org/10.1016/j.bspc.2022.103792
+
+034. A Deep Survival Learning Approach for Cardiovascular Risk Estimation in Patients With Sleep Apnea
+https://doi.org/10.1109/ACCESS.2022.3231743
+
+035. Toward sleep-apnea detection with lightweight multi-scaled fusion network based on single-lead ECG
+https://doi.org/10.1016/j.knosys.2022.108783
+
+036. Automated sleep apnea detection in snoring signal using long short-term memory neural networks
+https://doi.org/10.1016/j.bspc.2021.103238
+
+037. A 2D convolutional neural network to detect sleep apnea in children using airflow and oximetry
+https://doi.org/10.1016/j.compbiomed.2022.105784
+
+038. Diagnostic performance of machine learning-derived OSA prediction tools in large clinical and community-based samples
+
+
+039. Hybrid CNN-LSTM Network for Real-Time Apnea-Hypopnea Event Detection Based on IR-UWB Radar
+https://doi.org/10.1109/ACCESS.2021.3081747
+
+040. Achieving Accurate Automatic Sleep Apnea/Hypopnea Syndrome Assessment Using Nasal Pressure Signal
+https://doi.org/10.1109/JBHI.2022.3199454
+
+041. Contactless sleep apnea detection in snoring signals using hybrid deep neural networks targeted for embedded hardware platform with real-time applications
+https://doi.org/10.1016/j.bspc.2022.103765
+
+042. Fusion of Whole Night Features and Desaturation Segments Combined with Feature Extraction for Event-Level Screening of Sleep-Disordered Breathing
+https://doi.org/10.2147/NSS.S355369
+
+043. Machine learning and geometric morphometrics to predict obstructive sleep apnea from 3D craniofacial scans
+https://doi.org/10.1016/j.sleep.2022.04.019
+
+044. Automated Scoring of Respiratory Events in Sleep With a Single Effort Belt and Deep Neural Networks
+https://doi.org/10.1109/TBME.2021.3136753
+
+045. On the Generalization of Sleep Apnea Detection Methods Based on Heart Rate Variability and Machine Learning
+https://doi.org/10.1109/ACCESS.2022.3201911
+
+046. A dual-model deep learning method for sleep apnea detection based on representation learning and temporal dependence
+https://doi.org/10.1016/j.neucom.2021.12.001
+
+047. Acoustic Screening for Obstructive Sleep Apnea in Home Environments Based on Deep Neural Networks
+https://doi.org/10.1109/JBHI.2022.3154719
+
+048. Obstructive Sleep Apnea Detection Scheme Based on Manually Generated Features and Parallel Heterogeneous Deep Learning Model Under IoMT
+https://doi.org/10.1109/JBHI.2022.3166859
+
+049. Automated detection of obstructive sleep apnea in more than 8000 subjects using frequency optimized orthogonal wavelet filter bank with respiratory and oximetry signals
+https://doi.org/10.1016/j.compbiomed.2022.105364
+
+050. Detection of Obstructive Sleep Apnea Using Non-Negative Matrix Factorization-Based Feature Extraction Approach in Eigen Spectrum Domain
+https://doi.org/10.1109/TIM.2022.3151167
+
+051. Obstructive Sleep Apnea Detection Based on Sleep Sounds via Deep Learning
+https://doi.org/10.2147/NSS.S373367
+
+052. Fuzzy Approximate Entropy of Extrema Based on Multiple Moving Averages as a Novel Approach in Obstructive Sleep Apnea Screening
+https://doi.org/10.1109/JTEHM.2022.3197084
+
+053. Obstructive sleep apnea detection from single-lead electrocardiogram signals using one-dimensional squeeze-and-excitation residual group network
+https://doi.org/10.1016/j.compbiomed.2021.105124
+
+054. Robust Method for Screening Sleep Apnea With Single-Lead ECG Using Deep Residual Network: Evaluation With Open Database and Patch-Type Wearable Device Data
+https://doi.org/10.1109/JBHI.2022.3203560
+
+055. A sleep apnea-hypopnea syndrome automatic detection and subtype classification method based on LSTM-CNN
+https://doi.org/10.1016/j.bspc.2021.103240
+
+056. Detection of sleep apnea using deep neural networks and single-lead ECG signals
+https://doi.org/10.1016/j.bspc.2021.103125
+
+057. An Adaptive Sleep Apnea Detection Model Using Multi Cascaded Atrous-Based Deep Learning Schemes With Hybrid Artificial Humming Bird Pity Beetle Algorithm
+https://doi.org/10.1109/ACCESS.2023.3319452
+
+058. SelANet: decision-assisting selective sleep apnea detection based on confidence score
+https://doi.org/10.1186/s12911-023-02292-3
+
+059. Development and validation of moderate to severe obstructive sleep apnea screening test (ColTon) in a pediatric population
+https://doi.org/10.1016/j.sleep.2023.02.016
+
+060. Contactless screening for sleep apnea with breathing vibration signals based on modified U-Net
+https://doi.org/10.1016/j.sleep.2023.04.030
+
+061. A deep neural network-based model for OSA severity classification using unsegmented peripheral oxygen saturation signals
+https://doi.org/10.1016/j.engappai.2023.106161
+
+062. Multiple-instance learning for EEG based OSA event detection
+https://doi.org/10.1016/j.bspc.2022.104358
+
+063. Using entropy of snoring, respiratory effort and electrocardiography signals during sleep for OSA detection and severity classification
+https://doi.org/10.1016/j.sleep.2023.09.005
+
+064. Automatic scoring of drug-induced sleep endoscopy for obstructive sleep apnea using deep learning
+https://doi.org/10.1016/j.sleep.2022.12.015
+
+065. An Optimized Hardware Inference of SABiNN: Shift-Accumulate Binarized Neural Network for Sleep Apnea Detection
+https://doi.org/10.1109/TIM.2023.3279880
+
+066. Deep learning technique to detect craniofacial anatomical abnormalities concentrated on middle and anterior of face in patients with sleep apnea
+https://doi.org/10.1016/j.sleep.2023.09.025
+
+067. A Comparison of Signal Combinations for Deep Learning-Based Simultaneous Sleep Staging and Respiratory Event Detection
+https://doi.org/10.1109/TBME.2022.3225268
+
+068. Predictive Power of XGBoost_BiLSTM Model: A Machine-Learning Approach for Accurate Sleep Apnea Detection Using Electronic Health Data
+https://doi.org/10.1007/s44196-023-00362-y
+
+069. Self-Supervised Representation Learning-Based OSA Detection Method Using Single-Channel ECG Signals
+https://doi.org/10.1109/TIM.2023.3261931
+
+070. Convolutional neural network for screening of obstructive sleep apnea using snoring sounds
+https://doi.org/10.1016/j.bspc.2023.104966
+
+071. A deep learning model developed for sleep apnea detection: A multi-center study
+https://doi.org/10.1016/j.bspc.2023.104689
+
+072. RAPIDEST: A Framework for Obstructive Sleep Apnea Detection
+https://doi.org/10.1109/TNSRE.2022.3224474
+
+073. Detection of obstructive sleep apnea from single-channel ECG signals using a CNN-transformer architecture
+https://doi.org/10.1016/j.bspc.2023.104581
+
+074. Features of Cheyne-Stokes respiration automatically extracted from CPAP airflow signal raw data: Identification of discriminating features to detect heart failure
+https://doi.org/10.1016/j.bspc.2023.105227
+
+075. Spectrogram classification of patient chin electromyography based on deep learning: A novel method for accurate diagnosis obstructive sleep apnea
+https://doi.org/10.1016/j.bspc.2022.104215
+
+076. A Deep Neural Network Based Wake-After-Sleep-Onset Time Aware Sleep Apnea Severity Estimation Scheme Using Single-Lead ECG Data
+https://doi.org/10.1109/ACCESS.2023.3272373
+
+077. Application and interpretation of machine learning models in predicting the risk of severe obstructive sleep apnea in adults
+https://doi.org/10.1186/s12911-023-02331-z
+
+078. ApneaNet: A hybrid 1DCNN-LSTM architecture for detection of Obstructive Sleep Apnea using digitized ECG signals
+https://doi.org/10.1016/j.bspc.2023.104754
+
+079. Automatic detection of sleep apnea from single-lead ECG signal using enhanced-deep belief network model
+https://doi.org/10.1016/j.bspc.2022.104401
+
+080. DCDA-Net: Dual-convolutional dual-attention network for obstructive sleep apnea diagnosis from single-lead electrocardiograms
+https://doi.org/10.1016/j.engappai.2023.106451
+
+081. ECG-based convolutional neural network in pediatric obstructive sleep apnea diagnosis
+https://doi.org/10.1016/j.compbiomed.2023.107628
+
+082. MS-Net: Sleep apnea detection in PPG using multi-scale block and shadow module one-dimensional convolutional neural network
+https://doi.org/10.1016/j.compbiomed.2022.106469
+
+083. Assessment of obstructive sleep apnea severity using audio-based snoring features
+https://doi.org/10.1016/j.bspc.2023.104942
+
+084. Comparative study of a wearable intelligent sleep monitor and polysomnography monitor for the diagnosis of obstructive sleep apnea
+https://doi.org/10.1007/s11325-022-02599-x
+
+085. Obstructive sleep apnea detection with nonlinear analysis of speech
+https://doi.org/10.1016/j.bspc.2023.104956
+
+086. Detection and Prediction of Sleep Disorders by Covert Bed-Integrated RF Sensors
+https://doi.org/10.1109/TBME.2022.3212619
+
+087. Long-Term Sleep Respiratory Monitoring by Dual-Channel Flexible Wearable System and Deep Learning-Aided Analysis
+https://doi.org/10.1109/TIM.2023.3289535
+
+088. Measuring Sleep Stages and Screening for Obstructive Sleep Apnea with a Wearable Multi-Sensor System in Comparison to Polysomnography
+https://doi.org/10.2147/NSS.S406359
+
+089. Deep Learning-Based Quantification of Adenoid Hypertrophy and Its Correlation with Apnea-Hypopnea Index in Pediatric Obstructive Sleep Apnea
+https://doi.org/10.2147/NSS.S492146
+
+090. Energy-Efficient Sleep Apnea Detection Using a Hyperdimensional Computing Framework Based on Wearable Bracelet Photoplethysmography
+https://doi.org/10.1109/TBME.2024.3377270
+
+091. ApSense: Data-Driven Algorithm in PPG-Based Sleep Apnea Sensing
+https://doi.org/10.1109/JIOT.2024.3433500
+
+092. MFS-DBF: A trustworthy multichannel feature sieve and decision boundary formulation system for Obstructive Sleep Apnea detection
+https://doi.org/10.1016/j.compbiomed.2024.108842
+
+093. An explainable deep-learning architecture for pediatric sleep apnea identification from overnight airflow and oximetry signals
+https://doi.org/10.1016/j.bspc.2023.105490
+
+094. Machine learning methods for adult OSAHS risk prediction
+https://doi.org/10.1186/s12913-024-11081-1
+
+095. Multiresolution Assessment of ECG Sensor Data for Sleep Apnea Detection Using Wide Neural Network
+https://doi.org/10.1109/JSEN.2024.3367776
+
+096. A Machine Learning Prediction Model of Adult Obstructive Sleep Apnea Based on Systematically Evaluated Common Clinical Biochemical Indicators
+https://doi.org/10.2147/NSS.S453794
+
+097. Accurate apnea and hypopnea localization in PSG with Multi-scale object detection via Dual-modal Feature Learning
+https://doi.org/10.1016/j.bspc.2023.105717
+
+098. Deep Attention Networks With Multi-Temporal Information Fusion for Sleep Apnea Detection
+https://doi.org/10.1109/OJEMB.2024.3405666
+
+099. RespNet: A Dual-Network Approach for Automated OSA Severity Classification Utilizing PSG Type III Signals
+https://doi.org/10.1109/ACCESS.2024.3477266
+
+100. A Machine Learning Model for Obstructive Sleep Apnea Detection Using Ensemble Learning and Single-Lead EEG Signal Data
+https://doi.org/10.1109/JSEN.2024.3397395
+
+101. Machine-learning-based classification of obstructive sleep apnea using 19-channel sleep EEG data
+https://doi.org/10.1016/j.sleep.2024.09.041
+
+102. Noncontact Detection of Sleep Apnea Using Radar and Expectation–Maximization Algorithm
+https://doi.org/10.1109/JSEN.2024.3450890
+
+103. Diagnosing OSA and Insomnia at Home Based Only on an Actigraphy Total Sleep Time and RIP Belts an Algorithm ``Nox Body Sleep''
+https://doi.org/10.2147/NSS.S431650
+
+104. Altered Density of Resting-State Long- and Short-Range Functional Connectivity in Patients with Moderate-to-Severe Obstructive Sleep Apnea
+https://doi.org/10.2147/NSS.S483030
+
+105. Development and Validation of a Nomogram for Predicting Obstructive Sleep Apnea Severity in Children
+https://doi.org/10.2147/NSS.S445469
+
+106. EfficientNet-based machine learning architecture for sleep apnea identification in clinical single-lead ECG signal data sets
+https://doi.org/10.1186/s12938-024-01252-w
+
+107. Deep learning enhanced transmembranous electromyography in the diagnosis of sleep apnea
+https://doi.org/10.1186/s12868-024-00913-9
+
+108. Machine learning based severity classification of obstructive sleep apnea patients using awake EEG
+https://doi.org/10.1016/j.bspc.2024.106566
+
+109. MPCNN: A Novel Matrix Profile Approach for CNN-based Single Lead Sleep Apnea in Classification Problem
+https://doi.org/10.1109/JBHI.2024.3397653
+
+110. A Deep Transfer Learning Approach for Sleep Stage Classification and Sleep Apnea Detection Using Wrist-Worn Consumer Sleep Technologies
+https://doi.org/10.1109/TBME.2024.3378480
+
+111. Multiscale entropy analysis of single lead ECG and ECG derived respiration for AI based prediction of sleep apnea events
+https://doi.org/10.1016/j.bspc.2023.105444
+
+112. Sleep apnoea phenotypes in women: A cluster analysis from the ESADA cohort
+https://doi.org/10.1016/j.sleep.2024.10.015
+
+113. A bimodal feature fusion convolutional neural network for detecting obstructive sleep apnea/hypopnea from nasal airflow and oximetry signals
+https://doi.org/10.1016/j.artmed.2024.102808
+
+114. Towards automatic home-based sleep apnea estimation using deep learning
+https://doi.org/10.1038/s41746-024-01139-z
+
+115. Craniofacial Development Characteristics in Children with Obstructive Sleep Apnea for Establishment and External Validation of the Prediction Model
+https://doi.org/10.2147/NSS.S492714
+
+116. OSApredictor: A tool for prediction of moderate to severe obstructive sleep apnea-hypopnea using readily available patient characteristics
+https://doi.org/10.1016/j.compbiomed.2024.108777
+
+117. Detection of Obstructive Sleep Apnoea Using Features Extracted From Segmented Time-Series ECG Signals With a One Dimensional Convolutional Neural Network
+https://doi.org/10.1109/ACCESS.2023.3346689
+
+118. Automatic detection of sleep apnea from a single-lead ECG signal based on spiking neural network model
+https://doi.org/10.1016/j.compbiomed.2024.108877
+
+119. ECGAN-Assisted ResT-Net Based on Fuzziness for OSA Detection
+https://doi.org/10.1109/TBME.2024.3378508
+
+120. A multi-task learning model using RR intervals and respiratory effort to assess sleep disordered breathing
+https://doi.org/10.1186/s12938-024-01240-0
+
+121. Deep learning of sleep apnea-hypopnea events for accurate classification of obstructive sleep apnea and determination of clinical severity
+https://doi.org/10.1016/j.sleep.2024.01.015
+
+122. Screening for moderate to severe obstructive sleep apnea by using heart rate variability features based on random forest algorithm
+https://doi.org/10.1007/s11325-024-03151-9
+
+123. DM-IACNN: A Dual-Multiscale Interactive Attention-Based Convolution Neural Network for Automated Detection of Sleep Apnea
+https://doi.org/10.1109/TIM.2024.3420355
+
+124. A Prediction Nomogram of Severe Obstructive Sleep Apnea in Patients with Obesity Based on the Liver Stiffness and Abdominal Visceral Adipose Tissue Quantification
+https://doi.org/10.2147/NSS.S475534
+
+125. Unconstrained Respiratory Event Detection Using a Flexible Tactile Sensor
+https://doi.org/10.1109/JSEN.2024.3442240
+
+126. Comparison of OPPO Watch Sleep Analyzer and Polysomnography for Obstructive Sleep Apnea Screening
+https://doi.org/10.2147/NSS.S438065
+
+127. Multiscale Bidirectional Temporal Convolutional Network for Sleep Apnea Detection Based on Wearable Photoplethysmography Bracelet
+https://doi.org/10.1109/JBHI.2023.3335658
+
+128. Detailed evaluation of sleep apnea using heart rate variability: a machine learning and statistical method using ECG data
+https://doi.org/10.3389/fneur.2025.1636983
+
+129. An Explainable Deep-Learning Approach to Detect Pediatric Sleep Apnea From Single-Channel Airflow
+https://doi.org/10.1109/JTEHM.2025.3625388
+
+130. Automatic identification of obstructive sleep apnea using multimodal features
+https://doi.org/10.1016/j.bspc.2025.107609
+
+131. TP-CL: A novel temporal proximity contrastive learning approach for obstructive sleep apnea detection using single-lead electrocardiograms
+https://doi.org/10.1016/j.bspc.2024.106993
+
+132. Predictive modeling of obstructive sleep apnea using pharyngeal magnetic resonance imaging radiomics and clinical data
+https://doi.org/10.5664/jcsm.11706
+
+133. Explainable AI-driven scalogram analysis and optimized transfer learning for sleep apnea detection with single-lead electrocardiograms
+https://doi.org/10.1016/j.compbiomed.2025.109769
+
+134. Fine-grained respiratory event detection for SAHS screening
+https://doi.org/10.1016/j.bspc.2024.107147
+
+135. Artificial intelligence-based approaches for sleep-related breathing events identification using EEG and ECG signals
+https://doi.org/10.1007/s11325-025-03442-9
+
+136. A convolutional neural network for automatic detection of sleep-breathing events using single-channel ECG signals
+https://doi.org/10.1016/j.bspc.2025.107943
+
+137. A Huge Innovation in Diagnosis of Obstructive Sleep Apnea Syndrome: With an Artificial Intelligence-Based Algorithm, Obstructive Sleep Apnea Syndrome Can Now Be Diagnosed With Pulmonary Function Test
+https://doi.org/10.1109/ACCESS.2025.3531501
+
+138. Assessment of simulated snoring sounds with artificial intelligence for the diagnosis of obstructive sleep apnea
+https://doi.org/10.1016/j.sleep.2024.11.018
+
+139. Proposition of a new, minimally-invasive, software smartphone device to predict sleep apnea and its severity
+https://doi.org/10.1007/s11325-025-03441-w
+
+140. A residual deep learning framework for sleep apnea diagnosis from single lead electrocardiogram signals: An explainable artificial intelligence approach
+https://doi.org/10.1016/j.engappai.2025.110481
+
+141. SleepECG-Net: Explainable Deep Learning Approach With ECG for Pediatric Sleep Apnea Diagnosis
+https://doi.org/10.1109/JBHI.2024.3495975
+
+142. SmartMatch: A semi-supervised framework for obstructive sleep apnea classification using single-lead electrocardiogram signals with limited annotations
+https://doi.org/10.1016/j.engappai.2025.111226
+
+143. AI-enabled OSA screening using EEG data analysis and English listening comprehension insights
+https://doi.org/10.3389/fmed.2025.1534623
+
+144. Detection of sleep apnea using only inertial measurement unit signals from Apple Watch: a pilot-study with machine learning approach
+https://doi.org/10.1007/s11325-025-03255-w
+
+145. DeepApneaNet: A Multistage CNN-Bi-LSTM Hybrid Model for Sleep Apnea Detection From Single-Lead ECG Signal
+https://doi.org/10.1109/LSENS.2025.3558675
+
+146. OSASformer: A transformer-based model for OSAS screening via multi-source representation fusion
+https://doi.org/10.1016/j.knosys.2025.113365
+
+147. Time-hybrid OSAformer (THO): A hybrid temporal sequence transformer for accurate detection of obstructive sleep apnea via single-lead ECG signals
+https://doi.org/10.1016/j.cmpb.2024.108558
+
+148. XSleepFusion: A dual-stage information bottleneck fusion framework for interpretable multimodal sleep analysis
+https://doi.org/10.1016/j.inffus.2025.103275
+
+149. Optimizing apnea–hypopnea event detection in pediatric OSAHS diagnosis: An enhanced genetic algorithm approach
+https://doi.org/10.1016/j.bspc.2024.107428
+
+150. Sleep apnea syndrome classification based om temporal ECG and SPO2 by using multimodal multichannel transfer module with squeeze and excitation
+https://doi.org/10.1016/j.bspc.2025.107589
+
+151. Belun Sleep Platform versus in-lab polysomnography for obstructive sleep apnea diagnosis
+https://doi.org/10.1007/s11325-025-03433-w
+
+152. Intelligent Sleep Apnea Detection by Advanced ML Using Single-Lead EEG Signal Data
+https://doi.org/10.1109/JSEN.2024.3506057
+
+153. AI-Enhanced Smartwatch AHI Estimation and AI-Scored Polysomnography for Obstructive Sleep Apnea: Real-World Validation
+https://doi.org/10.2147/NSS.S540460
+
+154. ApneaWhisper: Transformer-Based Audio Segmentation for Fine-Grained Non-Invasive Sleep Apnea Detection
+https://doi.org/10.2147/NSS.S553774
+
+155. SleepWatcher: Detecting sleep apnea/hypopnea syndrome from wearable devices using deep learning
+https://doi.org/10.1016/j.bspc.2024.107460
+
+156. AI-Assisted Awake Endoscopic Video Analysis for Obstructive Sleep Apnea Detection
+https://doi.org/10.2147/NSS.S559788
+
+157. Toward Foundational Model for Sleep Analysis Using a Multimodal Hybrid-Self-Supervised Learning Framework
+https://doi.org/10.1109/TCYB.2025.3603608
+
+158. Utilizing a Wireless Radar Framework in Combination with Deep Learning Approaches to Evaluate Obstructive Sleep Apnea Severity in Home-Setting Environments
+https://doi.org/10.2147/JMDH.S486261
+
+159. Combining static and dynamic functional connectivity analyses to identify male patients with obstructive sleep apnea and predict clinical symptoms
+https://doi.org/10.1016/j.sleep.2024.12.013
+
+160. Machine Learning Classification Based on Individual Whole-Brain Functional Connectivity in Male OSA Patients
+https://doi.org/10.2147/NSS.S504512
+
+161. Clinical-level screening of sleep apnea syndrome with single-lead ECG alone is achievable using machine learning with appropriate time windows
+https://doi.org/10.1007/s11325-025-03316-0
+
+162. AI-driven clinical decision support for early diagnosis and treatment planning in patients with suspected sleep apnea using clinical and demographic data before sleep studies
+https://doi.org/10.1038/s41533-025-00455-5
+
+163. Efficient sleep apnea detection using single-lead ECG: A CNN-Transformer-LSTM approach
+https://doi.org/10.1016/j.compbiomed.2025.110655
+
+164. An Ordinal Pattern Similarity-Guided Supervised Prototype Contrastive Learning Framework With Enhanced Token Selection Module for Sleep Apnea Detection Based on Wearable PPG Bracelet
+https://doi.org/10.1109/TCE.2025.3627222
+
+165. Chin electromyography-based motor unit decomposition for alternative screening of obstructive sleep apnea events: A comprehensive analysis
+https://doi.org/10.1016/j.engappai.2024.109534
+
+166. Ultra-low-power System-on-Chip for automated screening of central apnea and hypopnea via chin electromyography
+https://doi.org/10.1016/j.compbiomed.2025.110349
+
+167. Separating obstructive and central respiratory events during sleep using breathing sounds: Utilizing transfer learning on deep convolutional networks
+https://doi.org/10.1016/j.sleep.2025.106485
+
+168. Distinguishing severe sleep apnea from habitual snoring using a neck-wearable piezoelectric sensor and deep learning: A pilot study
+https://doi.org/10.1016/j.compbiomed.2025.110070
+
+169. Multi-task self-supervised learning framework via contrastive restoration for sleep apnea syndrome detection using single-lead ECG
+https://doi.org/10.1016/j.bspc.2025.107631
+
+170. Attention-Based Transfer Learning for Efficient Obstructive Sleep Apnea (OSA) Classification on Snore Sound
+https://doi.org/10.1109/ACCESS.2025.3575203
+
+171. Screening for obstructive sleep apnea hypopnea using sleep breathing sounds based on the PSG-audio dataset
+https://doi.org/10.1016/j.bspc.2024.107472
+
+172. Artificial Intelligence Screening Tool for Obstructive Sleep Apnoea: A Study Based on Outpatients at a Sleep Medical Centre
+https://doi.org/10.2147/NSS.S503124
+
+173. Convolutional self-attention with adaptive channel-attention network for obstructive sleep apnea detection using limited training data
+https://doi.org/10.1016/j.engappai.2025.111154
+
+174. Advancing Sleep Disorder Diagnostics: A Transformer-Based EEG Model for Sleep Stage Classification and OSA Prediction
+https://doi.org/10.1109/JBHI.2024.3512616
+
+175. Multi-Task Learning for OSA Detection and Sleep Staging via Multi-Scale Modeling
+https://doi.org/10.1109/JBHI.2025.3647317
+
+176. Deep Learning-Based Event Counting for Apnea-Hypopnea Index Estimation Using Recursive Spiking Neural Networks
+https://doi.org/10.1109/TBME.2024.3498097
+
+177. Knowledge Guided Articulatory and Spectrum Information Fusion for Obstructive Sleep Apnea Severity Estimation
+https://doi.org/10.1109/JBHI.2025.3576788
+
+178. Weakly Supervised Deep Learning for Monitoring Sleep Apnea Severity Using Coarse-Grained Labels
+https://doi.org/10.1109/TASE.2025.3566682
+
+179. Apnea and hypopnea event detection using EEG, EMG, and sleep stage labels in a cohort of patients with suspected sleep apnea
+https://doi.org/10.1016/j.bspc.2025.107628
+
+180. Deep Learning for Obstructive Sleep Apnea Detection and Severity Assessment: A Multimodal Signals Fusion Multiscale Transformer Model
+https://doi.org/10.2147/NSS.S492806
+
+181. Real-Time Sleep Apnea Detection and Prediction From Single-Channel Airflow
+https://doi.org/10.1109/TIM.2025.3554899
+
+182. The value of cough sound monitoring via an audio-enabled smartwatch for OSA screening in COPD patients: a cross-sectional exploratory study
+https://doi.org/10.3389/fmed.2025.1650014
+
+183. SE-MSResNet: A lightweight squeeze-and-excitation multi-scaled ResNet with domain generalization for sleep apnea detection
+https://doi.org/10.1016/j.neucom.2024.129201
+
+184. DREAM: A novel explainable neural network for detecting sleep apnea using single-lead ECG signals
+https://doi.org/10.1016/j.bspc.2025.109291
+
+185. MVIC-Net: Multi-view interactive convolutional networks for ECG-based sleep apnea detection with explainable AI
+https://doi.org/10.1016/j.knosys.2026.115660
+
+186. Obstructive Sleep Apnea Prediction: A Comprehensive Review and Comparative Study
+https://doi.org/10.1007/s10994-025-06937-4
+
+187. Noncontact Sleep Apnea&#x2013;Hypopnea Syndrome Detection Using Variational Mode Decomposition-Based Respiratory Signals and Deep Neural Networks
+https://doi.org/10.1109/JSEN.2025.3635051
+
+188. SPHE-Match: Semi-supervised Prototype-aware Hierarchical Embedding Matching approach for classifying Sleep Apnea events using single-lead Electrocardiogram
+https://doi.org/10.1016/j.engappai.2026.114207
+
+189. Continuous Mobile Audio Monitoring for Sleep Apnea Detection
+https://doi.org/10.1109/JBHI.2026.3685448
+
+190. Patch-Type Heart Rate Variability Analysis with Artificial Intelligence for Detection of Obstructive Sleep Apnea
+https://doi.org/10.2147/NSS.S568569
+
+191. A 1D Snoring Waveform and 2D Composite Acoustic Feature Graph-Based Multi-Modal Fusion Network for Obstructive Sites Recognition
+https://doi.org/10.1109/JBHI.2026.3670208
+
+192. SleepCode: A Novel Attention-Driven Multimodal Framework for Sleep Staging and Obstructive Apnea Screening
+https://doi.org/10.1109/TCE.2026.3674648
+
+193. Sleep Apnea Phenotypes Based on Multi-Night Assessment of Sleep Perception
+https://doi.org/10.1080/15402002.2026.2630936
+
+194. Unconstrained Sleep Apnea Detection With Conv-ViT Network: LoRA Tuning for Personalized Monitoring
+https://doi.org/10.1109/JSEN.2025.3650450
+
+195. Learning generalizable representations with adversarial domain adaptation for snoring-based sleep apnea detection
+https://doi.org/10.1016/j.bspc.2025.108937
+
+196. DFCNet: A Precise Detection Approach for Obstructive Sleep Apnea-Hypopnea Events Using Airflow and Respiratory Effort Signals
+https://doi.org/10.1109/JBHI.2026.3688540
+
+197. Integrative Assessment of Cephalometric and Polysomnographic Features in Paediatric Obstructive Sleep Apnea: A Cross-Sectional Study
+https://doi.org/10.2147/NSS.S574045
+
+198. Machine learning optimization of obstructive sleep apnea screening: development and validation of a gradient boosting prediction model with a clinical implementation framework
+https://doi.org/10.3389/fmed.2026.1775766
+
+199. Utility of gait biomarkers in screening for obstructive sleep apnea among patients with Parkinson's disease: a cross-sectional study
+https://doi.org/10.1186/s12883-026-04700-3
+
+200. Detecting sleep apnea using non-linear measures of heart rate variability
+https://doi.org/10.1186/s12931-026-03621-6
+
+201. SleepECGFusion: A cross-modal deep-learning framework for automated sleep staging and sleep-apnea detection
+https://doi.org/10.1016/j.knosys.2025.115132
+
+202. Evaluation of an automated sleep apnea scoring algorithm via the Wesper Lab home sleep apnea test
+https://doi.org/10.1016/j.sleep.2026.108828
+
+203. Spectral analysis of ECG and SpO2 for machine learning classification of Sleep-Disordered breathing
+https://doi.org/10.1007/s11325-026-03602-5
+
+204. Self-Supervised Speech Representations for Sleep Apnea Severity Prediction
+https://doi.org/10.1109/TBME.2026.3656326
+
+205. Hybrid Residual Neural Network for Obstructive Sleep Apnea Detection Using ECG Scalogram
+https://doi.org/10.1109/TBME.2025.3597083
+
+206. Validation of an artificial intelligence-driven novel microphone-based wireless jaw movement and respiratory event detection system for home sleep apnea testing
+https://doi.org/10.1016/j.bspc.2026.110008
+
+207. Towards automatic home screening of obstructive sleep apnea using combined features from pulse wave amplitude, pulse-to-pulse interval and oxygen desaturation
+https://doi.org/10.1007/s11325-026-03592-4
+
+208. HAMCE-Net: Heterogeneity-Aware Multimodal Cross-Epoch Network for Sleep Apnea Detection
+https://doi.org/10.1109/ACCESS.2026.3686169
+
+209. A subject-based association network defines new pediatric sleep apnea phenotypes with different odds of recovery after treatment
+https://doi.org/10.1016/j.cmpb.2025.109209
+
+210. Deep representation learning with cross attention-based multi-feature fusion for sleep apnea detection using sleep respiratory sound
+https://doi.org/10.1016/j.bspc.2025.109093
+
+211. PSG-MAE: Robust Multitask Sleep Event Monitoring Using Multichannel PSG Reconstruction and Inter-Channel Contrastive Learning
+https://doi.org/10.1109/TNSRE.2025.3645353
+
+212. A unified neural network framework for synchronized pressure control in home ventilators
+https://doi.org/10.1016/j.engappai.2026.114541
+
+213. Co-classification network analysis reveals nodal dysfunction and dimension-specific alterations in obstructive sleep apnea-hypopnea syndrome
+https://doi.org/10.1016/j.sleep.2026.108764
+
+214. SEHPNet: Spectrally enhanced hierarchical patch network for sleep disorder evaluation via respiratory signals
+https://doi.org/10.1016/j.bspc.2025.108384
+
+215. Development of a Multimodal Obstructive Sleep Apnea Diagnostic Prediction Model Using Two-Dimensional Facial Images and Clinical Data
+https://doi.org/10.1109/JBHI.2026.3678664
+
+216. Lightweight cosine convolution network for sleep apnea detection with single-lead ECG
+https://doi.org/10.1016/j.neucom.2025.132457
+
+217. Novel Event-Based Peripheral Oxygen Saturation Metrics Provide Complementary Information for OSA Classification
+https://doi.org/10.1109/TBME.2026.3665589
+
+218. Sleep apnea prediction based on dynamical features from single-channel airflow
+https://doi.org/10.1016/j.bspc.2026.109608
+
