@@ -1,0 +1,43 @@
+﻿label	replace by
+ahi	apnea-hypopnea index (AHI)
+apnea hypopnea index	apnea-hypopnea index (AHI)
+apneahypopnea index	apnea-hypopnea index (AHI)
+auc	AUC
+bmi	BMI
+cnn	convolutional neural network (CNN)
+convolutional neural network	convolutional neural network (CNN)
+ecg	electrocardiogram (ECG)
+ecg signal	electrocardiogram (ECG)
+eeg	electroencephalogram (EEG)
+eeg signal	electroencephalogram (EEG)
+electrocardiogram	electrocardiogram (ECG)
+emg	EMG
+f1 score	F1-score
+fold cross validation	fold cross-validation
+heart rate variability	heart rate variability (HRV)
+hrv	heart rate variability (HRV)
+hsat	HSAT
+icc	ICC
+lstm	LSTM
+obstructive sleep apnea	obstructive sleep apnea (OSA)
+obstructive sleep apnea detection	OSA detection
+obstructive sleep apnea hypopnea syndrome	obstructive sleep apnea-hypopnea syndrome (OSAHS)
+osa	obstructive sleep apnea (OSA)
+osa detection	OSA detection
+osa diagnosis	OSA diagnosis
+osa screening	OSA screening
+osahs	obstructive sleep apnea-hypopnea syndrome (OSAHS)
+osas	obstructive sleep apnea (OSA)
+polysomnography	polysomnography (PSG)
+ppg	PPG
+psg	polysomnography (PSG)
+sa detection	sleep apnea detection
+sahs	sleep apnea-hypopnea syndrome (SAHS)
+sas	sleep apnea syndrome (SAS)
+sdb	sleep-disordered breathing (SDB)
+severe osa	severe OSA
+single lead electrocardiogram	single-lead ECG
+sleep disordered breathing	sleep-disordered breathing (SDB)
+spo2	SpO2
+support vector machine	support vector machine (SVM)
+svm	support vector machine (SVM)

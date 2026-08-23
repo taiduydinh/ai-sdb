@@ -1,0 +1,89 @@
+﻿canonical_id,canonical_label,original_id,original_label,action,original_occurrences,original_cluster,original_x,original_y
+1,accuracy,1,accuracy,unchanged,246,2,-0.1848,0.0451
+2,apnea-hypopnea index (AHI),2,ahi,merged,137,4,0.4717,0.6582
+2,apnea-hypopnea index (AHI),6,apnea hypopnea index,merged,55,4,0.4298,0.5086
+2,apnea-hypopnea index (AHI),7,apneahypopnea index,merged,17,1,0.6492,0.4711
+3,airflow,3,airflow,unchanged,32,3,-0.4069,0.777
+4,analysis,4,analysis,unchanged,135,1,0.4767,-0.0732
+5,apnea,5,apnea,unchanged,69,3,-0.763,0.1908
+6,artificial intelligence,8,artificial intelligence,unchanged,21,1,0.6508,0.4371
+7,AUC,9,auc,relabelled,45,1,0.7443,-0.6578
+8,BMI,10,bmi,relabelled,16,1,1.2537,-0.194
+9,breathing,11,breathing,unchanged,25,2,-0.2956,-0.3891
+10,classification,12,classification,unchanged,105,3,-0.35,0.205
+11,classification accuracy,13,classification accuracy,unchanged,24,3,-0.6026,0.2666
+12,classifier,14,classifier,unchanged,42,5,0.0671,-0.6154
+13,cluster,15,cluster,unchanged,20,1,1.356,-0.1099
+14,convolutional neural network (CNN),16,cnn,merged,31,3,-0.6471,0.5987
+14,convolutional neural network (CNN),19,convolutional neural network,merged,47,2,-0.6723,0.3736
+15,common sleep disorder,17,common sleep disorder,unchanged,14,5,-0.7306,-0.0141
+16,comorbidity,18,comorbidity,unchanged,15,1,1.3562,0.0063
+17,dataset,20,dataset,unchanged,146,2,-0.5454,-0.299
+18,daytime sleepiness,21,daytime sleepiness,unchanged,13,1,0.8524,0.5726
+19,deep learning,22,deep learning,unchanged,42,2,-0.462,0.315
+20,deep learning model,23,deep learning model,unchanged,35,3,-0.346,0.5691
+21,deep neural network,24,deep neural network,unchanged,14,6,0.0211,0.6715
+22,detection,25,detection,unchanged,153,3,-0.6371,0.1393
+23,diagnosis,26,diagnosis,unchanged,119,3,-0.1856,0.3943
+24,disease,27,disease,unchanged,52,1,0.3583,-0.3129
+25,early diagnosis,28,early diagnosis,unchanged,10,1,0.6927,-0.2196
+26,electrocardiogram (ECG),29,ecg,merged,95,2,-0.619,-0.4982
+26,electrocardiogram (ECG),30,ecg signal,merged,62,3,-0.7411,-0.3628
+26,electrocardiogram (ECG),33,electrocardiogram,merged,26,5,-0.4913,-0.4258
+27,electroencephalogram (EEG),31,eeg,merged,28,3,-0.4789,-0.102
+27,electroencephalogram (EEG),32,eeg signal,merged,15,3,-0.7757,0.4535
+28,EMG,34,emg,relabelled,15,3,-0.4867,-0.5545
+29,F1-score,35,f1 score,relabelled,34,2,-0.2585,-0.6326
+30,fold cross-validation,36,fold cross validation,relabelled,13,5,-0.1304,-0.6936
+31,heart rate variability (HRV),37,heart rate variability,merged,15,5,-0.0356,-0.7844
+31,heart rate variability (HRV),38,hrv,merged,17,5,-0.3242,-0.6204
+32,HSAT,39,hsat,relabelled,16,4,0.7675,0.7086
+33,hypopnea,40,hypopnea,unchanged,43,3,-0.6859,0.5547
+34,ICC,41,icc,relabelled,13,4,0.4275,0.9862
+35,logistic regression,42,logistic regression,unchanged,15,1,0.8145,-0.8193
+36,LSTM,43,lstm,relabelled,15,2,-0.8629,-0.1264
+37,machine,44,machine,unchanged,54,1,0.3333,-0.6431
+38,machine learning,45,machine learning,unchanged,31,1,0.252,-0.6527
+39,model,46,model,unchanged,409,2,0.0537,-0.256
+40,neural network,47,neural network,unchanged,41,2,-0.4974,0.0632
+41,obstructive sleep apnea (OSA),48,obstructive sleep apnea,merged,157,1,0.5668,0.0523
+41,obstructive sleep apnea (OSA),51,osa,merged,303,1,0.495,0.2372
+41,obstructive sleep apnea (OSA),56,osas,merged,19,1,0.7599,0.1782
+42,OSA detection,49,obstructive sleep apnea detection,merged,13,5,-0.2322,-0.4568
+42,OSA detection,52,osa detection,merged,38,5,-0.3181,-0.4889
+43,obstructive sleep apnea-hypopnea syndrome (OSAHS),50,obstructive sleep apnea hypopnea syndrome,merged,10,2,0.6012,-0.5462
+43,obstructive sleep apnea-hypopnea syndrome (OSAHS),55,osahs,merged,25,2,0.4735,-0.439
+44,OSA diagnosis,53,osa diagnosis,relabelled,15,5,0.5121,-0.3857
+45,OSA screening,54,osa screening,relabelled,24,1,0.8917,0.3234
+46,patient,57,patient,unchanged,204,1,0.6844,-0.1007
+47,performance,58,performance,unchanged,166,2,-0.0392,-0.5111
+48,physiological signal,59,physiological signal,unchanged,14,3,-0.7618,-0.0003
+49,polysomnography (PSG),60,polysomnography,merged,126,4,0.1652,0.3252
+49,polysomnography (PSG),65,psg,merged,135,4,0.3085,0.6048
+50,PPG,61,ppg,relabelled,17,4,0.5987,0.8069
+51,precision,62,precision,unchanged,23,2,-0.2296,-0.5797
+52,prediction,63,prediction,unchanged,50,3,-0.2136,-0.2062
+53,prevalent sleep disorder,64,prevalent sleep disorder,unchanged,10,2,-0.4757,-0.6814
+54,random forest,66,random forest,unchanged,17,1,0.6282,-0.7899
+55,receiver,67,receiver,unchanged,12,1,0.9857,-0.3875
+56,respiratory event,68,respiratory event,unchanged,30,4,-0.1508,0.8188
+57,sleep apnea detection,69,sa detection,merged,24,2,-0.9115,-0.492
+57,sleep apnea detection,79,sleep apnea detection,merged,33,2,-0.9106,-0.2491
+58,sleep apnea-hypopnea syndrome (SAHS),70,sahs,relabelled,19,3,-0.5163,0.8509
+59,sleep apnea syndrome (SAS),71,sas,relabelled,30,2,-0.8977,-0.128
+60,sleep-disordered breathing (SDB),72,sdb,merged,11,4,0.1624,0.7617
+60,sleep-disordered breathing (SDB),81,sleep disordered breathing,merged,16,4,0.056,0.6774
+61,severe OSA,73,severe osa,relabelled,43,1,0.9847,-0.152
+62,severity,74,severity,unchanged,70,1,0.2753,0.7607
+63,signal,75,signal,unchanged,214,3,-0.4278,0.4619
+64,single-lead ECG,76,single lead electrocardiogram,relabelled,25,2,-0.7533,-0.6091
+65,sleep,77,sleep,unchanged,103,3,-0.0361,0.4962
+66,sleep apnea,78,sleep apnea,unchanged,125,2,-0.7124,-0.1688
+67,sleep disorder,80,sleep disorder,unchanged,40,3,-0.6008,-0.05
+68,sleep stage,82,sleep stage,unchanged,24,4,0.0535,0.7655
+69,snoring,83,snoring,unchanged,19,2,0.1314,0.0572
+70,SpO2,84,spo2,relabelled,29,4,-0.121,0.8391
+71,support vector machine (SVM),85,support vector machine,merged,20,1,0.531,-0.77
+71,support vector machine (SVM),86,svm,merged,15,1,0.1062,-0.688
+72,upper airway,87,upper airway,unchanged,14,2,0.3206,-0.3861
+73,wearable device,88,wearable device,unchanged,23,5,-0.7956,0.3396
